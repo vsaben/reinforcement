@@ -1,2 +1,1 @@
-# reinforcement_exercises
-Completed chapter exercises pertaining to Sutton &amp; Barto's textbook: Reinforcement Learning - An Introduction.   
+__Reinforcement Learning: An Introduction__ (2nd edition) by Sutton &amp; Barto includes chapter exercises. This repository stores my attempts at these exercises in the process of understanding reinforcement learning. All exercises are completed in Rmarkdown, and separated by chapter.

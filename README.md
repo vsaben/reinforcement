@@ -2,29 +2,29 @@ __Reinforcement Learning: An Introduction__ (2nd edition) by Sutton &amp; Barto 
 
 **Chapters**:
 
-- [ ] Introduction
+- [ ] 1: Introduction
 
-SECTION 1: Tabular solution methods
+SECTION i: Tabular solution methods
 
-- [ ] Multi-armed Bandits
-- [ ] Finite Markov Decision Processes
-- [ ] Dynamic Programming
-- [ ] Monte Carlo Methods
-- [ ] Temporal-Difference Learning
-- [ ] n-step Bootstrapping
-- [ ] Planning and Learning with Tabular Methods
+- [ ] 2: Multi-armed Bandits
+- [ ] 3: Finite Markov Decision Processes
+- [ ] 4: Dynamic Programming
+- [ ] 5: Monte Carlo Methods
+- [ ] 6: Temporal-Difference Learning
+- [ ] 7: n-step Bootstrapping
+- [ ] 8: Planning and Learning with Tabular Methods
 
-SECTION 2: Approximate solution methods
+SECTION ii: Approximate solution methods
 
-- [ ] On-policy Prediction with Approximation
-- [ ] On-policy Control with Approximation
-- [ ] Off-policy Methods with Approximation
-- [ ] Eligibility Traces
-- [ ] Policy Gradient Methods
+- [ ] 9: On-policy Prediction with Approximation
+- [ ] 10: On-policy Control with Approximation
+- [ ] 11: Off-policy Methods with Approximation
+- [ ] 12: Eligibility Traces
+- [ ] 13: Policy Gradient Methods
 
-SECTION 3: Looking deeper
+SECTION iii: Looking deeper
 
-- [ ] Psychology
-- [ ] Neuroscience
-- [ ] Applications and Case Studies
-- [ ] Frontiers
+- [ ] 14: Psychology
+- [ ] 15: Neuroscience
+- [ ] 16: Applications and Case Studies
+- [ ] 17: Frontiers

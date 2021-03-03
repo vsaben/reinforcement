@@ -1,8 +1,8 @@
 __Reinforcement Learning: An Introduction__ (2nd edition) by Sutton &amp; Barto includes chapter exercises. This repository stores my attempts at these exercises in the process of understanding reinforcement learning. All exercises are completed in Rmarkdown, and separated by chapter.
 
-**Chapters**:
+### Chapters [Completed Exercises]:
 
-- [ ] 1: Introduction
+- [x] 1: Introduction
 
 SECTION i: Tabular solution methods
 

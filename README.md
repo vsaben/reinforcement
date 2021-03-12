@@ -6,7 +6,7 @@ __Reinforcement Learning: An Introduction__ (2nd edition) by Sutton &amp; Barto 
 
 SECTION i: Tabular solution methods
 
-- [ ] 2: Multi-armed Bandits
+- [x] 2: Multi-armed Bandits
 - [ ] 3: Finite Markov Decision Processes
 - [ ] 4: Dynamic Programming
 - [ ] 5: Monte Carlo Methods
